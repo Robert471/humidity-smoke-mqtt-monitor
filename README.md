@@ -1,6 +1,6 @@
 # 🌱 Humidity & Smoke Sensor Monitoring - ElectroPerú
 
-This project was developed for **ElectroPerú** and consists of a distributed monitoring system using **ESP32 boards** to measure **humidity and smoke levels**.  
+This project was developed for **ROMOBOA** and consists of a distributed monitoring system using **ESP32 boards** to measure **humidity and smoke levels**.  
 A total of **65 devices** were installed across the facility, transmitting data via **MQTT** to a **Raspberry Pi** server running Python for real-time visualization.
 
 ---
